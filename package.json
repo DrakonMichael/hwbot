@@ -1,0 +1,23 @@
+{
+  "name": "hwbot",
+  "version": "1.0.0",
+  "description": "A script I wrote in node.js that aggregates and sends me my homework using the Station Executive Homework planner.",
+  "main": "hwbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrakonMichael/hwbot.git"
+  },
+  "keywords": [],
+  "author": "DrakonMichael / Michael Karpov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrakonMichael/hwbot/issues"
+  },
+  "homepage": "https://github.com/DrakonMichael/hwbot#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.4"
+  }
+}
